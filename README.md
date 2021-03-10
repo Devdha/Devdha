@@ -4,7 +4,7 @@
   
   ![p0tt3r-iOS's GitHub stats](https://github-readme-stats.vercel.app/api?username=p0tt3r-iOS&show_icons=true&theme=tokyonight)
 
-  ### <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ios.svg" /> Developer
+  ### <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/ios.svg" />   Developer
 
   
   
