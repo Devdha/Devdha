@@ -2,20 +2,18 @@
 <img src="https://komarev.com/ghpvc/?username=p0tt3r-iOS&&style=flat-square" align="right" />
 </div>  
   
-<div align="left">
-<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/></a>
-</div>
-  
   ### iOS Developer
   ##### What I am learning
-  * iOS - Swift
+  * iOS - Swift <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/></a>
   * CS - Operating System
   * Algorithm
+
+
 
 ### Github Status
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=p0tt3r-iOS_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=p0tt3r-iOS&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
