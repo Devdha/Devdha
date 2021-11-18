@@ -5,8 +5,9 @@
   ### iOS Developer
   ##### What I am learning
   <!--* <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/></a>-->
+  * iOS - Swift
   * CS - Operating System
-  * Algorithm
+  * Algorithm(in C++)
 
 
 
