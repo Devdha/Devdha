@@ -2,12 +2,13 @@
 <img src="https://komarev.com/ghpvc/?username=p0tt3r-iOS&&style=flat-square" align="right" />
 </div>  
   
-  ### iOS Developer
+  ### Backend Developer
   ##### What I am learning
   <!--* <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/></a>-->
-  * iOS - Swift
+  * C programming(in 42Seoul)
   * CS - Operating System
   * Algorithm(in C++)
+  * Golang
 
 
 
