@@ -1,6 +1,10 @@
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=p0tt3r-iOS&&style=flat-square" align="right" />
 </div>  
+
+<div align=center>
+# Hi! There 👋
+</div>
   
   ### Backend Developer
   ##### What I am learning
