@@ -6,13 +6,11 @@
 🐯 d-ha
 </h1>
   
+<h4 align="center"> Hello, I'm Donghun Ha! </h4>
 <p align="center">
-### Hello, I'm Donghun Ha!
-Greetings!
-
-I am a student of 42 Seoul from South Korea. 🇰🇷  
-I am studying and interested in Server side programming, Golang and MSA.  
-  
+Greetings!</br>
+I am a student of 42 Seoul from South Korea. 🇰🇷 </br>
+I am studying and interested in Server side programming, Golang and MSA. </br> </br>
 I hope you to enjoy my profile!
 </p> </br>
 
