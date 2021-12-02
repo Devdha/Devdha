@@ -1,6 +1,6 @@
 <div align="right">
-<img src="https://komarev.com/ghpvc/?username=p0tt3r-iOS&&style=flat-square" align="right" />
-</div>  
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevdha%2Fhit-counter&count_bg=%2300008B&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right" />
+</div>
 
 <h1 align="center">
 d-ha👋
@@ -17,13 +17,13 @@ d-ha👋
 
 
 ### Github Status
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="40%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Devdha&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Devdha&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 95%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="40%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devdha&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devdha&hide_border=true&layout=compact" align="left" style="width: 95%" />
 
 </td></tr></table>  
 
