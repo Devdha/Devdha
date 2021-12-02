@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-d-ha 🐯
+🐯 d-ha
 </h1>
   
 ### Hello, I'm Donghun Ha!
