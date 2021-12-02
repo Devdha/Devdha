@@ -4,7 +4,7 @@
 
 <h1 align="center">
 d-ha👋
-</h2>
+</h1>
   
   ### Backend Developer
   ##### What I am learning
