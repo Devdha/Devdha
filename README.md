@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=p0tt3r-iOS&&style=flat-square" align="right" />
 </div>  
 
-### Hi! There👋
+<center> <h1>Hi! There👋</h1> </center>
 
 ---
   
