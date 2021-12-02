@@ -6,7 +6,7 @@
 🐯 d-ha
 </h1>
   
-<h4 align="center"> Hello, I'm Donghun Ha! </h4>
+<h3 align="center"> Hello, I'm Donghun Ha! </h3>
 <p align="center">
 Greetings!</br>
 I am a student of 42 Seoul from South Korea. 🇰🇷 </br>
