@@ -14,9 +14,9 @@ I am studying and interested in Server side programming, Golang and MSA.
   
 I hope you to enjoy my profile!
 </br>
-<p align="center">(Hope to have below)</p>
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h2 align="center"><b>🛠 Tech Stack</b></h2>
 <p align="center">
+(Hope to have below stacks)</br>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=GO&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a> </br>
@@ -25,6 +25,23 @@ I hope you to enjoy my profile!
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> </br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>  </p>
+
+</br>
+<h2 align="center"><b>📞 Contact</b></h2>
+<p align="center">
+<!-- a href="https://github.com/Devdha" target="_blank" -->
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<!-- a href="https://linkedin.com/in/" target="_blank" -->
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<!-- a href="donghun.dev@gmail.com" target="_blank" -->
+<img src=https://img.shields.io/badge/Gmail-%23000000.svg?&style=for-the-badge&logo=Gmail&logoColor=white&color=EA4335 alt=instagram style="margin-bottom: 5px;" />
+</a>
+<!-- a href="https://instagram.com/" target="_blank" -->
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
+</a>
+</br>
 
 ## Github Status
 
