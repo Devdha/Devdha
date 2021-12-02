@@ -3,17 +3,13 @@
 </div>
 
 <h1 align="center">
-d-ha👋
+d-ha 🐯
 </h1>
   
-  ### Backend Developer
-  ##### What I am learning
-  <!--* <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/></a>-->
-  * C programming(in 42Seoul)
-  * CS - Operating System
-  * Algorithm(in C++)
-  * Golang
+### Hello, I'm Donghun Ha!
+Greetings!
 
+I am a student of 42 Seoul from South Korea. 🇰🇷
 
 
 ### Github Status
