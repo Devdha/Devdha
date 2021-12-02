@@ -2,11 +2,9 @@
 <img src="https://komarev.com/ghpvc/?username=p0tt3r-iOS&&style=flat-square" align="right" />
 </div>  
 
-<h2 align="center">
-Hi! There👋
+<h1 align="center">
+d-ha👋
 </h2>
-
----
   
   ### Backend Developer
   ##### What I am learning
