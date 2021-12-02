@@ -24,9 +24,8 @@ I hope you to enjoy my profile!
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> </br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>  </p>
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>  </p> </br>
 
-</br>
 <h2 align="center"><b>📞 Contact</b></h2>
 <p align="center">
 <!-- a href="https://github.com/Devdha" target="_blank" -->
@@ -40,8 +39,7 @@ I hope you to enjoy my profile!
 </a>
 <!-- a href="https://instagram.com/" target="_blank" -->
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
-</a>
-</br>
+</a> </p> </br>
 
 <h2 align="center"><b>📼 Github Status</b></h2>
 
