@@ -43,8 +43,7 @@ I hope you to enjoy my profile!
 </a>
 </br>
 
-## Github Status
-
+<h2 align="center"><b>📼 Github Status</b></h2>
 
 <table><tr><td valign="top" width="50%">
 
