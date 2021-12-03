@@ -44,7 +44,7 @@ I hope you to enjoy my profile!
 <h2 align="center"><b>42 Cursus</b></h2>
 <p align="center">
 <!-- img src="https://badge42.herokuapp.com/api/stats/dha?cursus=C%20Piscine"/ -->
-<img src="https://badge42.herokuapp.com/api/stats/dha"/>
+<img src="https://badge42.herokuapp.com/api/stats/dha?privacyEmail=true"/>
 </p> </br>
 
 <h2 align="center"><b>📼 Github Status</b></h2>
