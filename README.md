@@ -45,8 +45,8 @@ I hope you to enjoy my profile!
 <table><tr><td valign="top" width="50%">
 <!-- img src="https://badge42.herokuapp.com/api/stats/dha?cursus=C%20Piscine"/ -->
 <p align="center">
-<img src="https://badge42.herokuapp.com/api/stats/dha?privacyEmail=true" align="left" style="width: 58%"/>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdgns1027" align="right" style="width: 41%"/>
+<img src="https://badge42.herokuapp.com/api/stats/dha?privacyEmail=true" align="left" style="width: 58.5%"/>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdgns1027" align="center" style="width: 41.5%"/>
 </p>
 </td></tr></table> 
 </br>
