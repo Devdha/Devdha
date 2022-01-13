@@ -42,20 +42,19 @@ I hope you to enjoy my profile!
 </a> </p> </br>
 
 <h2 align="center"><b> 📚 Stats </b></h2>
-<table><tr><td valign="top" width="50%">
 <!-- img src="https://badge42.herokuapp.com/api/stats/dha?cursus=C%20Piscine"/ -->
-<p align="center">
-<img src="https://badge42.herokuapp.com/api/stats/dha?privacyEmail=true" align="left" style="width: 58.5%"/>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdgns1027" align="center" style="width: 41.5%"/>
-</p>
+<table><tr><td valign="top" width="57.5%">
+<img src="https://badge42.herokuapp.com/api/stats/dha?privacyEmail=true" align="center"/>
+</td><td valign="top" width="43.5%">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdgns1027" align="center"/>
 </td></tr></table> 
 </br>
 
 <h2 align="center"><b>📼 Github Status</b></h2>
 <table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Devdha&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 96%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Devdha&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
 </td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devdha&hide_border=true&layout=compact" align="left" style="width: 96%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devdha&hide_border=true&layout=compact" align="center" style="width: 100%" />
 </td></tr></table> 
 </br> 
 
