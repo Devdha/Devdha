@@ -47,6 +47,7 @@ I hope you to enjoy my profile!
 <img align="left" src="https://badge42.herokuapp.com/api/stats/dha?privacyEmail=true"/>
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdgns1027">
 </p>
+<br>
  </br>
 
 <h2 align="center"><b>📼 Github Status</b></h2>
