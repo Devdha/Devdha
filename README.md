@@ -41,24 +41,20 @@ I hope you to enjoy my profile!
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
 </a> </p> </br>
 
-<h2 align="center"><b>42 Cursus</b></h2>
+<h2 align="center"><b> 📚 Stats </b></h2>
 <p align="center">
 <!-- img src="https://badge42.herokuapp.com/api/stats/dha?cursus=C%20Piscine"/ -->
 <img src="https://badge42.herokuapp.com/api/stats/dha?privacyEmail=true"/>
-</p> </br>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdgns1027">
+</p>
+ </br>
 
 <h2 align="center"><b>📼 Github Status</b></h2>
-
 <table><tr><td valign="top" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Devdha&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 96%" />
-
 </td><td valign="top" width="50%">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devdha&hide_border=true&layout=compact" align="left" style="width: 96%" />
-
 </td></tr></table> 
-
 <br/> 
 
 <!--
