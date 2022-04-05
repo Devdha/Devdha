@@ -52,9 +52,9 @@ I hope you to enjoy my profile!
 </br>
 
 <h2 align="center"><b>📼 Github Status</b></h2>
-<table><tr><td valign="top" width="47%">
+<table><tr><td valign="top" width="57%">
 <img src="https://github-readme-stats.vercel.app/api?username=Devdha&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
-</td><td valign="top" width="53%">
+</td><td valign="top" width="43%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devdha&hide_border=true&layout=compact" align="center" style="width: 100%" />
 </td></tr></table> 
 </br> 
