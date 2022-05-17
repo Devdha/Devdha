@@ -16,13 +16,13 @@ I hope you to enjoy my profile!
 
 <h2 align="center"><b>🛠 Tech Stack</b></h2>
 <p align="center">
-(Hope to have below stacks)</br>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=GO&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a> </br>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
+<!-- (Hope to have below stacks)</br> -->
+<!-- <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=GO&logoColor=white"/></a> -->
+<!-- <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> -->
+<!-- <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a> </br> -->
+<!-- <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> -->
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> </br>
+<!-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> </br> -->
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>  </p> </br>
 
