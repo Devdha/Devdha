@@ -10,12 +10,12 @@
 <p align="center">
 Greetings! </br> </br>
 I am a student of 42 Seoul from South Korea. 🇰🇷 </br>
-I am studying and interested in Server side programming, Golang and MSA. </br> </br>
+I am studying and interested in Server side programming and MSA. </br> </br>
 I hope you to enjoy my profile!
 </p> </br>
 
 <h2 align="center"><b>🛠 Tech Stack</b></h2>
-<p align="center"></br>
+<p align="center">
 <!-- (Hope to have below stacks) -->
 <!-- <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=GO&logoColor=white"/></a> -->
 <!-- <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> -->
