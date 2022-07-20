@@ -3,14 +3,14 @@
 </div>
 
 <h1 align="center">
-🐯 d-ha  
+🐯 d-ha  </br>
 (means dha hi!)
 </h1>
   
 <h3 align="center"> Hello, I'm Donghun Ha! </h3>
 <p align="center">
 </br>
-I am a student of 42 Seoul from South Korea. 🇰🇷 </br>
+I am a student of 42 Seoul from South Korea. 🇰🇷 
 I am studying and interested in Server side programming and MSA. </br> </br>
 I hope you to enjoy my profile!
 </p> </br>
