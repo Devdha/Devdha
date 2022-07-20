@@ -3,7 +3,8 @@
 </div>
 
 <h1 align="center">
-🐯 d-ha(means dha hi!)
+🐯 d-ha  
+(means dha hi!)
 </h1>
   
 <h3 align="center"> Hello, I'm Donghun Ha! </h3>
