@@ -10,8 +10,7 @@
 <h3 align="center"> Hello, I'm Donghun Ha! </h3>
 <p align="center">
 I am a student of 42 Seoul from South Korea. 🇰🇷 </br>
-I am studying and interested in Server side programming and MSA. </br> </br>
-I hope you to enjoy my profile!
+I am interested in Server side programming. </br> </br>
 </p> </br>
 
 <h2 align="center"><b>🛠 Tech Stack</b></h2>
