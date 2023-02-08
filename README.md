@@ -51,7 +51,7 @@ I am interested in server side programming 😁 </br> </br>
 </a>
 <a href="https://devdha.notion.site/480d1ac86a174b6b87bd802032e1815a" target="_blank">
 <img src="https://img.shields.io/badge/Resume-821315?style=for-the-badge&logoColor=white" style="margin-bottom: 5px;"/></a>
-<a href="https://www.linkedin.com/in/donghun-ha-905810209/" target="_blank">
+<a href="https://www.linkedin.com/in/devdha/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> </p> </br>
 
