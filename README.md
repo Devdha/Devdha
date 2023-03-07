@@ -49,8 +49,8 @@ I am interested in server side programming 😁 </br> </br>
 <a href="https://github.com/Devdha" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://devdha.notion.site/480d1ac86a174b6b87bd802032e1815a" target="_blank">
-<img src="https://img.shields.io/badge/Resume-821315?style=for-the-badge&logoColor=white" style="margin-bottom: 5px;"/></a>
+<!-- <a href="https://devdha.notion.site/480d1ac86a174b6b87bd802032e1815a" target="_blank">
+<img src="https://img.shields.io/badge/Resume-821315?style=for-the-badge&logoColor=white" style="margin-bottom: 5px;"/></a> -->
 <a href="https://www.linkedin.com/in/devdha/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> </p> </br>
@@ -65,7 +65,7 @@ I am interested in server side programming 😁 </br> </br>
 </br>
 
 <h2 align="center"><b>📼 Github Status</b></h2>
-<table><tr><td valign="top" width="50%">
+<table align="center"><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=Devdha&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
 </td><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devdha&hide_border=true&layout=compact" align="center" style="width: 100%" />
