@@ -15,7 +15,7 @@
 <div align="center">
 
 Hello, I'm Donghun Ha. </br> </br>
-I am a student of 42Seoul from South Korea. 🇰🇷 </br>
+I work as a backend engineer at Corca from South Korea. 🇰🇷 </br>
 I am interested in server side programming 😁 </br> </br>
 
 </div>
