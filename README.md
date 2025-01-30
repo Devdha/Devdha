@@ -58,7 +58,7 @@ I am interested in server side programming 😁 </br> </br>
 <h2 align="center"><b> 📚 Stats </b></h2>
 <table align="center">
 <tr><td valign="top" align="center" width="52%">
-<img src="https://badge42.vercel.app/api/v2/cl1luzwkj001109l1g7xd7fmn/stats?cursusId=21&coalitionId=88" align="center" />
+<img src="https://badge.mediaplus.ma/darkblue/dha" align="center" />
 </td><td valign="top" align="center" width="42.5%">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdgns1027" align="center" />
 </td></tr></table> 
