@@ -62,7 +62,7 @@ AI 기반 광고/추천 시스템 분야에서 일하며, **확장 가능하고 
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
 <!-- Verify Notion Link is intended -->
-<a href="https://devdha.notion.site/480d1ac86a174b6b87bd802032e1815a" target="_blank">
+<a href="https://github.com/user-attachments/files/19814140/default.pdf" target="_blank">
 <img src="https://img.shields.io/badge/Resume%2FPortfolio-821315?style=for-the-badge&logo=Notion&logoColor=white" style="margin-bottom: 5px;"/>
 </a>
 <a href="https://www.linkedin.com/in/devdha/" target="_blank">
