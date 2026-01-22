@@ -1,3 +1,11 @@
+<div align="center">
+
+<!-- Header -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ab6463,100:821315&height=215&section=header&text=d-ha&fontSize=90&fontColor=f7f5f5&desc=Software%20Engineer%20%7C%20Seoul,%20KR%20%F0%9F%90%AF&animation=fadeIn&fontAlignY=35&descAlignY=55&descAlign=62) <!-- Shortened Desc -->
+
+</div>
+
 # Hi, I'm DongHun Ha 👋
 
 **AI Software Engineer** who turns AI into real product value.
