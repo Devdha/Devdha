@@ -53,4 +53,4 @@ From **ONNX/gRPC model serving** to **Vertex AI** and **Promptfoo**, I ship AI t
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/devdha)
 [![Resume](https://img.shields.io/badge/Resume-FF5722?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/19814140/default.pdf)
-[![Blog](https://img.shields.io/badge/Blog-20C997?style=flat&logo=velog&logoColor=white)](https://dh4s.com)
+[![Blog](https://img.shields.io/badge/Blog-20C997?style=flat&logoColor=white)](https://dh4s.com)
