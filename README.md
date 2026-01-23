@@ -36,6 +36,9 @@ From **ONNX/gRPC model serving** to **Vertex AI** and **Promptfoo**, I ship AI t
 | ⚡ **85% Latency Reduction**    | Ad RecSys optimization: 100ms → 15ms                                                                                                                                |
 | 🚀 **Zero-Downtime Deployment** | Built rolling update pipeline for on-premise ML serving                                                                                                             |
 
+<img width="256" alt="AI Top 100 Finalist Badge A" src="https://github.com/user-attachments/assets/6e9feee9-9038-49b0-a1f4-5b69b8721170" />
+
+
 ---
 
 ### 🛠 Tech Stack
